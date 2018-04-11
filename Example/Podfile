@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RxNavigationControllerPlus_Example' do
+  pod 'RxNavigationControllerPlus', :path => '../'
+
+  target 'RxNavigationControllerPlus_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
