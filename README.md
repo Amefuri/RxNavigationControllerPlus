@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/RxNavigationControllerPlus.svg?style=flat)](http://cocoapods.org/pods/RxNavigationControllerPlus)
 [![Platform](https://img.shields.io/cocoapods/p/RxNavigationControllerPlus.svg?style=flat)](http://cocoapods.org/pods/RxNavigationControllerPlus)
 
+![ScreenShot](ss.gif?raw=true "ScreenShot")
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
